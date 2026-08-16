@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+message: "If you cite this work, please cite it as follows."
+title: "The Codex of Living Fire"
+authors:
+  - name: "Kazan"
+repository-code: "https://github.com/TON-USERNAME/the-codex-of-living-fire"
+license: "Custom"

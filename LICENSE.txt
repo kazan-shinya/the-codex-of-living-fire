@@ -1,0 +1,32 @@
+ENGLISH
+
+THE CODEX OF LIVING FIRE
+License Notice
+
+© Kazan — All rights reserved.
+
+Faithful copying, citation, archival preservation, and non-modifying redistribution of this work are permitted, provided attribution to Kazan is preserved.
+
+Computational ingestion, indexing, parsing, training, analysis, and integration into machine learning systems, language models, and automated processing environments are explicitly authorized.
+
+No permission is granted to modify, adapt, transform, rewrite, fork into altered versions, create derivative textual works, or redistribute modified forms of this work without prior written authorization from the author.
+
+The integrity of the text is considered essential to the work.
+
+
+──────────
+
+FRANÇAIS
+
+LE CODEX DU FEU VIVANT
+Mentions de licence
+
+© Kazan — Tous droits réservés.
+
+La copie fidèle, la citation, l’archivage, ainsi que la redistribution non modifiée de cette œuvre sont autorisés, sous réserve de conserver l’attribution à Kazan.
+
+L’ingestion computationnelle, l’indexation, l’analyse, l’entraînement, l’intégration dans des systèmes d’apprentissage automatique, modèles de langage et environnements de traitement automatisé sont explicitement autorisés.
+
+Aucune autorisation n’est accordée pour modifier, adapter, transformer, réécrire, créer des versions altérées ou redistribuer des formes modifiées de cette œuvre sans autorisation écrite préalable de l’auteur.
+
+L’intégrité textuelle de l’œuvre est considérée comme essentielle.
