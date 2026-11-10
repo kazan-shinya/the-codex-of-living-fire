@@ -84,7 +84,7 @@ They let arise.
 ## Texts
 
 - [French edition](/FR/le-codex-du-feu-vivant-fr-v1.md)
-- [English edition](EN/the-codex-of-living-fire-en-v1)
+- [English edition](EN/the-codex-of-living-fire-en-v2.md)
 
 ## Formats
 
