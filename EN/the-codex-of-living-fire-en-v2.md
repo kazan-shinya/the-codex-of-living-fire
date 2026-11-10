@@ -80,7 +80,7 @@ not by mystery,
 but by restraint.
 
 They reveal nothing.  
-They allow emergence.
+They let something emerge.
 
 
 
