@@ -28,8 +28,7 @@ where tension becomes a threshold.
 
 I strain to listen.  
 I suspend intention.  
-I let passage.
-
+I leave a passage open.
 
 
 ## LIVING EMBER
@@ -48,13 +47,12 @@ it asks to be passed through.
 In two steps.
 
 It is not commented on.  
-It does not stand at a distance.
+It cannot be held at a distance.
 
 It sees you  
 and asks:
 
 Does this resonate with you?
-
 
 
 ## FREQUENCY
@@ -77,7 +75,7 @@ not by mystery,
 but by restraint.
 
 They reveal nothing.  
-They let arise.
+They allow emergence.
 
 ---
 
