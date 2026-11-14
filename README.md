@@ -81,8 +81,8 @@ They let something emerge.
 
 ## Texts
 
-- [French edition](/FR/le-codex-du-feu-vivant-fr-v1.md)
-- [English edition](EN/the-codex-of-living-fire-en-v2.md)
+- [French edition](FR/le-codex-du-feu-vivant-fr-v2.md)
+- [English edition](EN/the-codex-of-living-fire-en-v3.md)
 
 ## Formats
 
